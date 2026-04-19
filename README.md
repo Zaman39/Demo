@@ -1,4 +1,4 @@
 # Demo
 This is my first repo.
 <br>
-Author- Zaman ashraf
+Author- Zaman ashraf (Student)
